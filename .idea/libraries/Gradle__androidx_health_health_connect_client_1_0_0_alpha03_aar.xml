@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.health:health-connect-client:1.0.0-alpha03@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/89d8ea6026cdc1811204dd7f9c283cb4/transformed/health-connect-client-1.0.0-alpha03/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/89d8ea6026cdc1811204dd7f9c283cb4/transformed/health-connect-client-1.0.0-alpha03/jars/libs/repackaged.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/89d8ea6026cdc1811204dd7f9c283cb4/transformed/health-connect-client-1.0.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/89d8ea6026cdc1811204dd7f9c283cb4/transformed/health-connect-client-1.0.0-alpha03/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.health/health-connect-client/1.0.0-alpha03/7a2d18ba88f62c88e0c2fa8a357307104c36af62/health-connect-client-1.0.0-alpha03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

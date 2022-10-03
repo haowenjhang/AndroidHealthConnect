@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidHealthConnect.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidHealthConnect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HealthConnect_lib/AndroidHealthConnect.HealthConnect_lib.iml" filepath="$PROJECT_DIR$/.idea/modules/HealthConnect_lib/AndroidHealthConnect.HealthConnect_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HealthConnect_lib/AndroidHealthConnect.HealthConnect_lib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/HealthConnect_lib/AndroidHealthConnect.HealthConnect_lib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HealthConnect_lib/AndroidHealthConnect.HealthConnect_lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/HealthConnect_lib/AndroidHealthConnect.HealthConnect_lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HealthConnect_lib/AndroidHealthConnect.HealthConnect_lib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/HealthConnect_lib/AndroidHealthConnect.HealthConnect_lib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidHealthConnect.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidHealthConnect.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidHealthConnect.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidHealthConnect.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidHealthConnect.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidHealthConnect.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidHealthConnect.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidHealthConnect.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

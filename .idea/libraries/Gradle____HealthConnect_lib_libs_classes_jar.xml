@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./HealthConnect_lib/libs/classes.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HealthConnect_lib/libs/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
